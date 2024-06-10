@@ -396,3 +396,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/EFAzureApi/EFAzureApi/appsettings.Development.json
